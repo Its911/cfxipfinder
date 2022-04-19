@@ -47,7 +47,7 @@ console.log();
   console.log();
   console.log(`\x1b[32mNote: Souvenez vous que certains serveurs masquent leur ip`)
   console.log();
-  console.log(`\x1b[33mVous pouvez me contacter sur discord - philly flingo#2118`);
+  console.log(`\x1b[33mVous pouvez me contacter sur discord - " 911#1337`);
   console.log();
   recursiveAsyncReadLine();
 
